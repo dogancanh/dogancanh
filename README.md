@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğancan</h1>
-<h3 align="center">Software Engineer from Turkey</h3>
+<h3 align="center">An enthusiastic, versatile and resourceful prospective senior software engineering student who possesses excellent interpersonal skills and enjoys being part of a team. Committed to achieving and exceeding targets and displays excellent problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dogancanh&label=Profile%20views&color=0e75b6&style=flat" alt="dogancanh" /> </p>
 
