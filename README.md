@@ -3,20 +3,14 @@
   <p align="center">                                                                                                                                                                                                 
     <b>Software Developer</b> · Passionate about building reliable, scalable systems
   </p>                                                                                                                                                                                                               
-                                                                                                                                                                                                                     
-  ---
      
   ## 🧑‍💻 About Me                                                                                                                                                                                                                  
-  -─💼─Software─Developer─focused─on─enterprise-grade─applications───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  - 🔧 I build backends with **.NET / C#** and frontends with **React**                                                                                                                                              
+  - 💼Software Engineer focused on enterprise grade applications
+  - 🔧 I build backends with **.NET / C#** and frontends with **React**                                                                                                                                             
   - 🗄️  Deep experience with **Oracle SQL & PL/SQL**                                                                                                                                                                
   - 🌱 Always exploring new tools to write cleaner, faster code                                                                                                                                                      
-  - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dogancan-hirdavatcioglu/)                                                                                                                                  
-                                                                                                                                                                                                                     
-  ---                                                                                                                                                                                                                
-                                                                                                                                                                                                                     
-  ## 🛠️  Tech Stack                                                                                                                                                                                                   
-                                                                                                                                                                                                                   
+  - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dogancan-hirdavatcioglu/)                                                                                                                                                                                                                                                                                                                                                       
+  ## 🛠️  Tech Stack                                                                                                                                                                                                                                                                                                                                                                                                            
   **Languages & Frameworks**
                                                                                                                                                                                                                      
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -34,14 +28,12 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)                                                                                                                       
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                                                                              
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-                                                                                                                                                                                                                     
-  ---                                                                                                                                                                                                                
-                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                                                                                          
   ## 📊 GitHub Stats                                                                                                                                                                                                 
                                                                                                                                                                                                                    
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogancanh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
   </p>                                                                                                                                                                                                               
                                                                                                                                                                                                                      
   ---                                                                                                                                                                                                                
