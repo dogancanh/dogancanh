@@ -6,7 +6,7 @@
      
 ## 🧑‍💻 About Me
 
-  - 💼 Software Developer with experience in enterprise & product development                                                                                                                                        
+  - 💼 Software Engineer with experience in enterprise & product development                                                                                                                                        
   - 📱 Building iOS apps with **SwiftUI** and backends with **Node.js**
   - 🔧 Day-to-day: **.NET / C#**, **Oracle SQL & PL/SQL**, **React**                                                                                                                                                 
   - 🤖 AI enthusiast — integrating ML into real-world products                                                                                                                                                       
