@@ -30,10 +30,9 @@
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
                                                                                                                                                                                                                                                                                                                                                                                                                                           
   ## 📊 GitHub Stats                                                                                                                                                                                                 
- <p align="center">                                                                                                                                                                                                 
-    <img src="https://github-readme-stats.vercel.app/api?username=dogancanh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>                                                               
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogancanh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>                                                              
-  </p>
+<p align="center">                                                                                              
+    <img src="https://streak-stats.demolab.com?user=dogancanh&theme=tokyonight&hide_border=true" height="165"/>                                                                                                      
+  </p>   
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
   <p align="center">                                                                                                                                                                                               
     <i>"Clean code always looks like it was written by someone who cares."</i>
