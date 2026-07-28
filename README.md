@@ -32,15 +32,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-### GitHub Stats
+### GitHub Streak
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dogancanh&hide_border=true&theme=dracula&show_icons=true)](https://github.com/dogancanh)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dogancanh&hide_border=true&theme=dracula&layout=compact)](https://github.com/dogancanh)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=dogancanh&theme=dracula&hide_border=true)](https://github.com/dogancanh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dogancanh&theme=dracula&hide_border=true)](https://github.com/dogancanh)
 
 </div>
 
