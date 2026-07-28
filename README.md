@@ -32,14 +32,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
 
-### GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dogancanh&theme=dracula&hide_border=true)](https://github.com/dogancanh)
-
-</div>
-
 ### Projects
 
 [Guardi](https://apps.apple.com/app/id6760951651) · Blocks spam calls and filters junk SMS on iPhone. On the App Store.
